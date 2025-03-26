@@ -4,7 +4,7 @@ A Streamlit-based application that allows you to download YouTube videos in diff
 
 ## Features
 
-- Download YouTube videos in various qualities (best, 720p, 480p, 360p)
+- Download YouTube videos in various qualities  as mp4 (best, 720p, 480p, 360p) or as mp3 file.
 - Custom download location support
 - Progress bar for download tracking
 - Input validation for YouTube URLs
